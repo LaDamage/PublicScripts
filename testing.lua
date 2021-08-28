@@ -1,1 +1,1 @@
-print(toprint)
+_G.toprint(toprint)
